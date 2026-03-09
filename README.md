@@ -14,7 +14,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tapan-vachhani-691433394/)
- <a href="https://drive.google.com/file/d/105xcpxKCWIWDZfgU9nfC8NZd33OZQiGT/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+ <a href="https://drive.google.com/file/d/1AlNn6g29CZ5SJ9PW6xf23Te-H2KT5lk_/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/TapanVachhani/)
 
 </div>
