@@ -1,13 +1,14 @@
 <div align="center">
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=500&size=30&pause=1000&color=89B4FA&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributer;Problem+Solver" 
-    alt="Typing Animation" 
-  />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Tapan+Vachhani;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1000" alt="coding animation"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="1000" alt="coding animation"/>
 
 ## **IIIT Surat Hackathon Winner** • **Full-Stack Developer** • **Problem Solver**
 
@@ -22,39 +23,33 @@
 
 <div align="center">
 
-## ⚡ What I Craft
+## 🛠️ Tech Stack & Tools
 
-<table border="1">
-<tr>
+<div align="center">
 
-<td align="center" width="25%">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="90"/>
-  <br/><strong>Frontend Magic</strong>
-  <br/><sub>React • Next</sub>
-</td>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="90"/>
-  <br/><strong>Backend Power</strong>
-  <br/><sub>Node.js • Express</sub>
-</td>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="90"/>
-  <br/><strong>UI/UX Design</strong>
-  <br/><sub>Figma • Prototyping</sub>
-</td>
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
-<td align="center" width="25%">
-  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="90"/>
-  <br/><strong>Data Layer</strong>
-  <br/><sub>MongoDB</sub>
-</td>
-
-</tr>
-</table>
+### Version Control & Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
+
 
 
 
