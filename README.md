@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Tapan+Vachhani;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
 <div align="center">
