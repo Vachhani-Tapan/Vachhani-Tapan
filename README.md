@@ -20,44 +20,24 @@
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-<div align = "center">
-<table border="0" width="80%">
-<tr>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
-<td width="50%" valign="top">
-
-### 🚀 Who Am I?
+<p hidden> <br> </p>
 
 - 💻 Full-Stack Developer (MERN Stack)
 - 🧠 Learning DSA & Problem Solving  
 - 🏆 IIIT Surat Hackathon Winner  
 - 🎯 Focused on building scalable & real-world applications  
-- 📈 Consistently improving on LeetCode  
-
-### ⚡ Quick Highlights
-
+- 📈 Consistently improving on LeetCode
 - 🔥 Daily coding & consistency mindset   
 - 🤝 Open to collaboration on impactful projects  
 - 🎨 Passion for UI/UX design  
 
-</td>
 
-<td width="40%" align="center">
-
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
-
-</td>
-
-</tr>
-</table>
-</div>
-
----
+<br>
+<br>
 
 <div align="center">
 
