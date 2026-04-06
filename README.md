@@ -8,11 +8,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
-
 ## **IIIT Surat Hackathon Winner** • **Full-Stack Developer** • **Problem Solver**
 
 <br/>
@@ -23,6 +18,44 @@
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Who Am I?
+
+- 💻 Full-Stack Developer (MERN Stack)
+- 🧠 Learning DSA & Problem Solving  
+- 🏆 IIIT Surat Hackathon Winner  
+- 🎯 Focused on building scalable & real-world applications  
+- 📈 Consistently improving on LeetCode  
+
+### ⚡ Quick Highlights
+
+- 🔥 Daily coding & consistency mindset   
+- 🤝 Open to collaboration on impactful projects  
+- 🎨 Passion for UI/UX design  
+
+</td>
+
+<td width="40%" align="center">
+
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -52,9 +85,6 @@
 
 </div>
 
-
-
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -65,7 +95,6 @@
 <div align="center">
 
 ### 📚 E-Learning Platform | Full Stack Web Application
-
 
 **Developed a full-stack E-Learning platform that enables users to explore courses, and track their progress through an intuitive interface.**
 
@@ -78,7 +107,6 @@
 <a href="https://github.com/Vachhani-Tapan/ELeaningPath">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 
 </div>
 </td>
@@ -95,7 +123,6 @@
 ⚙️ Conditional Approval Rules – Supports percentage-based approvals, specific approver rules, or hybrid approval flows<br/>
 </p>
 
-
 <a href="https://github.com/Vachhani-Tapan/Exp">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -104,7 +131,6 @@
 </td>
 
 </tr>
-
 </table>
 </div>
 
@@ -115,5 +141,3 @@
 <br/>
 <br/>
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=saira&weight=800&size=60&letterSpacing=2&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You)](https://git.io/typing-svg)
