@@ -22,7 +22,8 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<div align = "center">
+<table border="0" width="80%">
 <tr>
 
 <td width="50%" valign="top">
@@ -54,6 +55,7 @@
 
 </tr>
 </table>
+</div>
 
 ---
 
