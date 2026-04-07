@@ -70,7 +70,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<table  border="1">
+<table  border="0">
 <tr>
 
 <td width="50%" valign="top">
@@ -114,6 +114,34 @@
 
 </tr>
 </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vachhani-Tapan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vachhani-Tapan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vachhani-Tapan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/TapanVachhani?theme=dark&font=Karma&ext=heatmap" />
+
 </div>
 
 ## 🛠️ Technology
