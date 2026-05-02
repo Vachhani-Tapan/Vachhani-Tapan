@@ -37,7 +37,7 @@
 
 # 🧑‍💻 About Me
 
-<img align="right" src="development-01_20260502161037.gif" width="300"/>
+<img align="right" src="development-01_20260502161037.gif" width="280"/>
 
 - 💻 Full-Stack Developer (MERN Stack)  
 - 🧠 Learning DSA & Problem Solving  
