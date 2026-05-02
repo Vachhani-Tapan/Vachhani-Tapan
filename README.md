@@ -79,56 +79,160 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
+<table width="100%" cellspacing="10">
 
-<td width="50%">
+<!-- ROW 1 -->
+<td width="50%" valign="top">
+<div style="border:1px solid #30363d; border-radius:10px; padding:20px;">
 
-### 📚 E-Learning Platform  
-Full-stack platform to explore courses & track progress  
+<h3 align="center">🌍 CareTrip | Global Medical Care Platform</h3>
 
-- 📖 Course Management  
-- 🎥 Video + Study Material  
-- 📱 Fully Responsive  
+**A healthcare platform designed for international travelers to find verified, language-compatible doctors and clinics, ensuring safe and reliable medical access worldwide.**
 
-<a href="https://github.com/Vachhani-Tapan/ELeaningPath">
+<p align="left">
+🔐 Advanced Auth – Google OAuth + JWT with 7-day session persistence<br/>
+🏥 Smart Doctor Discovery – Mappls & Google Maps integration with verified doctors<br/>
+📅 Appointment System – Smart booking with automated reminders<br/>
+💬 Reviews & Feedback – Transparent rating system for trust<br/>
+</p>
+
+<br/>
+
+<div align="center">
+<a href="https://care-trip-frontend.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/watch?v=nsfZlwu1Gzw&t">
+<img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://documenter.getpostman.com/view/50841045/2sBXqKnzCC">
+<img src="https://img.shields.io/badge/API_Docs-00C853?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vachhani-Tapan/care_trip/tree/main">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+</div>
+</td>
+
+
+<td width="50%" valign="top">
+<div style="border:1px solid #30363d; border-radius:10px; padding:20px;">
+
+<h3 align="center">💰 FinWise AI | AI-Powered Finance Platform</h3>
+
+**An AI-driven personal finance platform for managing expenses, investments, goals, taxes, and debt in one unified system.**
+
+<p align="left">
+📊 Expense Management – AI categorization & budgeting<br/>
+📈 Investment Tracking – Stocks & mutual funds analytics<br/>
+🎯 Financial Goals – Smart planning & SIP suggestions<br/>
+🤖 AI Advisor – Intelligent financial insights<br/>
+🏦 Tax & Debt Tools – Optimization & planning
+</p>
+
+<br/>
+
+<div align="center">
+
+<a href="https://finwiseai-1-yvg4.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://youtu.be/0SZ8y3BI9hQ?si=3vQiBT4OnIkkSUv-">
+<img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vachhani-Tapan/finwiseai-1/tree/main">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+
+</div>
 </td>
+</tr>
 
-<td width="50%">
+<!-- ROW 2 -->
+<tr>
 
-### 💰 Expense Management Platform  
-Multi-level approval system for expense tracking  
+<td width="50%" valign="top">
+<div style="border:1px solid #30363d; border-radius:10px; padding:20px;">
+<h3 align="center">💰 Expense Management Platform</h3>
 
-- ✅ Approval Workflow  
-- ⚙️ Conditional Rules  
-- 📊 Structured Management  
+**The system allows employees to submit expense claims while enabling managers and administrators to review, approve, or reject requests through a structured multi-level approval workflow.**
+
+<p align="left">
+✅ Multi-Level Approval Workflow – Managers and approvers can review, approve, or reject expenses with comments.<br/>
+⚙️ Conditional Approval Rules – Supports percentage-based approvals, specific approver rules, or hybrid approval flows<br/>
+</p>
+
+<br/>
+
+<div align="center">
+<a href="https://expense-management-ledgercore.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://youtu.be/BYyiBMN9CZY?si=9evUE5QyKCHtnFnF">
+<img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Vachhani-Tapan/Exp">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+</div>
 </td>
 
+<td width="50%" valign="top">
+<div style="border:1px solid #30363d; border-radius:10px; padding:20px;">
+<h3 align="center">📚 E-Learning Platform </h3>
+
+**Developed a full-stack E-Learning platform that enables users to explore courses, and track their progress through an intuitive interface.**
+
+<p align="left">
+ 📖 Course Management – Browse and enroll in courses<br/>
+🎥 Learning Content – Video and study material integration<br/>
+📱 Responsive Design – Works smoothly across desktop and mobile devices<br/>
+</p>
+
+<br/>
+
+<div align="center">
+<a href="https://learn-smart-project.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vachhani-Tapan/ELeaningPath">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+</div>
+</td>
+
+
 </tr>
+
 </table>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vachhani-Tapan&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vachhani-Tapan&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vachhani-Tapan&theme=tokyonight&hide_border=true" />
 
