@@ -22,7 +22,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vachhani-Tapan&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
