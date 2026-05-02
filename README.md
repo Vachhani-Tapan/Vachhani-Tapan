@@ -8,17 +8,25 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tapan-vachhani-691433394/)
+<div align="center">
 
-<a href="https://your-portfolio-link.com">
+<a href="https://www.tapanvachhani.me/" style="display:inline-block;">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1AlNn6g29CZ5SJ9PW6xf23Te-H2KT5lk_/view?usp=sharing" download>
+<a href="https://drive.google.com/file/d/1AlNn6g29CZ5SJ9PW6xf23Te-H2KT5lk_/view?usp=sharing" style="display:inline-block;">
   <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" />
 </a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TapanVachhani/)
+<a href="https://www.linkedin.com/in/tapan-vachhani-691433394/" style="display:inline-block; margin:4px;">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/TapanVachhani/" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
 
 <br/><br/>
 
