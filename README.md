@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1AlNn6g29CZ5SJ9PW6xf23Te-H2KT5lk_/view?usp=sharing" style="display:inline-block;">
+<a href="https://drive.google.com/file/d/1CsWIDnUxHA5ujMmmrh3b8-0_KC45N6-w/view?usp=sharing" style="display:inline-block;">
   <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/tapan-vachhani-691433394/" style="display:inline-block; margin:4px;">
+<a href="https://www.linkedin.com/in/tapanvachhani/" style="display:inline-block; margin:4px;">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
