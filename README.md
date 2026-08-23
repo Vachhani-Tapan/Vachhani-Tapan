@@ -251,6 +251,27 @@
 
 ---
 
+## 🌐 Open Source Journey
+
+<div align="center">
+
+Contributing to **GirlScript Summer of Code (GSSoC)** and **EC(S)oC** — merged PRs, issue triage, and community contributions along the way.
+
+<table>
+  <tr>
+    <th align="center">GSSoC</th>
+    <th align="center">EC(S)oC</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="gssoc-badge-gssoc_champion.png" width="180"/></td>
+    <td align="center"><img src="ecsoc-badge.png" width="180"/></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Technologies
 
 <div align="center">
