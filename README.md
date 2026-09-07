@@ -166,27 +166,24 @@
 
 <td width="50%" valign="top">
 <div style="border:1px solid #30363d; border-radius:10px; padding:20px;">
-<h3 align="center">💰 Expense Management Platform</h3>
+<h3 align="center">📮 PinCode Explorer</h3>
 
-**The system allows employees to submit expense claims while enabling managers and administrators to review, approve, or reject requests through a structured multi-level approval workflow.**
+**A full-stack postal analytics platform for exploring, searching, and analyzing 150,000+ Indian PIN codes and post offices.**
 
 <p align="left">
-✅ Multi-Level Approval Workflow – Managers and approvers can review, approve, or reject expenses with comments.<br/>
-⚙️ Conditional Approval Rules – Supports percentage-based approvals, specific approver rules, or hybrid approval flows<br/>
+Interactive postal analytics dashboard with state, district, region, and office-type insights. <br/>
+Debounced search with autocomplete and hierarchical State → District → Taluk filtering. <br/>
+Server-side pagination and filtered CSV export for efficient exploration of large postal datasets <br/>
 </p>
 
 <br/>
 
 <div align="center">
-<a href="https://expense-management-ledgercore.netlify.app/">
+<a href="https://pin-code-explorer.vercel.app/">
 <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://youtu.be/BYyiBMN9CZY?si=9evUE5QyKCHtnFnF">
-<img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vachhani-Tapan/Exp">
+<a href="https://github.com/Vachhani-Tapan/PinCode_Explorer">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
