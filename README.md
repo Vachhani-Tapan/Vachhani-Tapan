@@ -257,11 +257,11 @@ Contributing to **GirlScript Summer of Code (GSSoC)** and **EC(S)oC** — merged
 <table>
   <tr>
     <th align="center">GSSoC</th>
-    <th align="center">EC(S)oC</th>
+    <th align="center">ECSoC</th>
   </tr>
   <tr>
     <td align="center"><img src="gssoc-badge-gssoc_champion.png" width="180"/></td>
-    <td align="center"><img src="ecsoc-badge.png" width="180"/></td>
+    <td align="center"><img src="6.png" width="180"/></td>
   </tr>
 </table>
 
